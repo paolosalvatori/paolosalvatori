@@ -19,6 +19,8 @@
 - How to install an AKS cluster with the Istio service mesh add-on via Bicep ([Azure Samples](https://github.com/Azure-Samples/aks-istio-addon-bicep))([My GitHub](https://github.com/paolosalvatori/aks-istio-addon-bicep))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-install-an-aks-cluster-with-the-istio-service-mesh-add-on/ba-p/3802069#M471))
 - Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps ([Azure Samples](https://github.com/azure-samples/private-aks-cluster-terraform-devops)) ([My GitHub](https://github.com/paolosalvatori/private-aks-cluster-terraform-devops))
 
+Read the complete list of articles and samples [here](https://github.com/paolosalvatori/paolosalvatori/blob/main/articles-and-samples.md).
+
 #### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,prometheus,vscode,visualstudio,dotnet,py,git,github,docker,bash,powershell,css,html,)
