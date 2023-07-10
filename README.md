@@ -1,10 +1,8 @@
 ### Paolo Salvatori
 
+||
 |-|
-|My accounts:<br>- :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
-- :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
-- :dog:[Twitter](https://twitter.com/babosbird)
-- :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)|
+|My accounts:<br>- :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)|
 
  My  Statistics:
       
