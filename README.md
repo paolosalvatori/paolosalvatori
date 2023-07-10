@@ -4,10 +4,6 @@
 - :dog:[Twitter](https://twitter.com/babosbird)
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 
-#### ⚡My  Statistics:
-      
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
-
 #### 🔭Recent Articles and Samples:
 
 - Deploy and run an Azure OpenAI ChatGPT application on AKS via Bicep ([Azure Samples](https://github.com/Azure-Samples/aks-openai))([My GitHub](https://github.com/paolosalvatori/aks-openai-bicep))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-and-run-a-azure-openai-chatgpt-application-on-aks-via/ba-p/3834619))
@@ -26,6 +22,10 @@
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### ⚡My  Statistics:
+      
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
 
 Here are some ideas to get you started:
 
