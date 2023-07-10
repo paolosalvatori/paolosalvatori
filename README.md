@@ -1,4 +1,4 @@
-### Paolo Salvatori
+### 👨‍💻Paolo Salvatori
 
 #### 📫My accounts:
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)|
