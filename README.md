@@ -1,12 +1,12 @@
 ### :chicken: Paolo Salvatori
 
-#### 📫 My accounts:
+#### 📫 Accounts
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)|
 - :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
 - :dog:[Twitter](https://twitter.com/babosbird)
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 
-#### 🔭 Recent Articles and Samples:
+#### 🔭 Recent Articles and Samples
 
 - Deploy and run an Azure OpenAI ChatGPT application on AKS via Bicep ([Azure Samples](https://github.com/Azure-Samples/aks-openai))([My GitHub](https://github.com/paolosalvatori/aks-openai-bicep))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-and-run-a-azure-openai-chatgpt-application-on-aks-via/ba-p/3834619))
 - Deploy and run an Azure OpenAI ChatGPT application on AKS via Terraform ([Azure Samples](https://github.com/Azure-Samples/aks-openai-terraform))([My GitHub](https://github.com/paolosalvatori/aks-openai-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-and-run-a-azure-openai-chatgpt-app-on-aks-with-terraform/ba-p/3839611#M512))
