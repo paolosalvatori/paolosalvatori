@@ -21,7 +21,7 @@
 
 #### Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,prometheus,vscode,visualstudio,dotnet,py,git,github,docker,bash,powershell,css,html,)
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
