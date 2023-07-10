@@ -1,32 +1,15 @@
 ### Paolo Salvatori
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
-<table>
-  <tr>
-    <td>
-      My accounts:
+My accounts:
 
-      - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
-      - :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
-      - :dog:[Twitter](https://twitter.com/babosbird)
-      - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
+- :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
+- :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
+- :dog:[Twitter](https://twitter.com/babosbird)
+- :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 
-    </td>
-  </tr>
-  <tr>
-    <td>
-      My  Statistics:
+ My  Statistics:
       
-      [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
-    </td>
-  </tr>
-  
-</table>
-
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
 
 
 <!--
