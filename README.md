@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori)](https://github.com/paolosalvatori/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
