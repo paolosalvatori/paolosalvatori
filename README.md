@@ -1,4 +1,4 @@
-### 👨‍💻Paolo Salvatori
+### :chicken:Paolo Salvatori
 
 #### 📫My accounts:
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)|
@@ -15,12 +15,12 @@
 - How to expose NGINX Ingress Controller via Azure Front Door and Azure Private Link Service ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-private-link-service))([My GitHub](https://github.com/paolosalvatori/aks-front-door-private-link-service))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/integrating-azure-front-door-waf-with-azure-container-apps/ba-p/3729081))
 - Azure Policy for Azure Container Apps ([Azure Samples](https://github.com/Azure-Samples/aca-azure-policy))([My GitHub](https://github.com/paolosalvatori/aca-azure-policy))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-policy-for-azure-container-apps-yes-please/ba-p/3775200))
 - Journey to Containers ([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/journey-to-containers/ba-p/3792199)) in collaboration with Saverio and Nelly
-- How to call an AKS-hosted workload via Application Gateway Private Link and Application Gateway Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-agic-private-link))([My GitHub](https://github.com/paolosalvatori/aks-agic-private-link))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-call-an-aks-hosted-workload-via-application-gateway/ba-p/3797617))
+- How to call an AKS-hosted workload via Application Gateway Private Link ([Azure Samples](https://github.com/Azure-Samples/aks-agic-private-link))([My GitHub](https://github.com/paolosalvatori/aks-agic-private-link))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-call-an-aks-hosted-workload-via-application-gateway/ba-p/3797617))
 - Configure Azure Application Gateway Private Link ([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/configure-azure-application-gateway-private-link/ba-p/3799926))
 - Migrate a simple app from Service Fabric to AKS ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/migrate-app-service-fabric-azure-kubernetes-service)) in collaboration with Ally Ford (PM in the AKS team) and Brandon Smith (PM in the Core OS team)
 - Migrate your workload from Service Fabric to AKS ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/service-fabric-azure-kubernetes-service)) in collaboration with Ally Ford (PM in the AKS team) and Brandon Smith (PM in the Core OS team)
 - How to install an AKS cluster with the Istio service mesh add-on via Bicep ([Azure Samples](https://github.com/Azure-Samples/aks-istio-addon-bicep))([My GitHub](https://github.com/paolosalvatori/aks-istio-addon-bicep))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-install-an-aks-cluster-with-the-istio-service-mesh-add-on/ba-p/3802069#M471))
-- Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps - Updated Terraform modules ([Azure Samples](https://github.com/azure-samples/private-aks-cluster-terraform-devops)) ([My GitHub](https://github.com/paolosalvatori/private-aks-cluster-terraform-devops))
+- Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps ([Azure Samples](https://github.com/azure-samples/private-aks-cluster-terraform-devops)) ([My GitHub](https://github.com/paolosalvatori/private-aks-cluster-terraform-devops))
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
