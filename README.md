@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori)](https://github.com/paolosalvatori/github-readme-stats)
-
+[![Github all releases](https://img.shields.io/github/downloads/paolosalvatori/StrapDown.js/total.svg)](https://GitHub.com/paolosalvatori/StrapDown.js/releases/)
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
