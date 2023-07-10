@@ -1,5 +1,7 @@
-### Hi there 👋
+### Paolo Salvatori
 
+- :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
+- :dog:[Twitter](https://twitter.com/babosbird)
 
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
 
