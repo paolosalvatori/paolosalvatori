@@ -8,6 +8,7 @@
 
 #### 🔭 Recent Articles and Samples
 
+- Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
 - A Practical Guide to Zone Redundant AKS Clusters and Storage ([Azure Samples](https://github.com/Azure-Samples/zone-redundant-aks-and-storage))([My GitHub](https://github.com/paolosalvatori/zone-redundant-aks-and-storage))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/a-practical-guide-to-zone-redundant-aks-clusters-and-storage/ba-p/4036254))
 - Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit chat app in AKS using Terraform ([Azure Samples](https://github.com/Azure-Samples/aks-openai-chainlit-terraform))([My GitHub](https://github.com/paolosalvatori/aks-openai-chainlit-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/create-an-azure-openai-langchain-chromadb-and-chainlit-chat-app/ba-p/4024070))
 - Use Harbor in Azure and Multi-Cloud Environments ([Azure Samples](https://github.com/Azure-Samples/use-harbor-with-aks-and-acr))([My GitHub](https://github.com/paolosalvatori/use-harbor-with-aks-and-acr))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/use-harbor-in-azure-and-multi-cloud-environments/ba-p/4011443))
