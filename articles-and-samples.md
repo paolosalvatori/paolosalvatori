@@ -1,6 +1,7 @@
 ### Articles and Samples
 
 - Service Bus Explorer [My GitHub](https://github.com/paolosalvatori/ServiceBusExplorer)
+- End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub](https://github.com/paolosalvatori/aks-front-door-end-to-end-tls))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
 - Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
 - A Practical Guide to Zone Redundant AKS Clusters and Storage ([Azure Samples](https://github.com/Azure-Samples/zone-redundant-aks-and-storage))([My GitHub](https://github.com/paolosalvatori/zone-redundant-aks-and-storage))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/a-practical-guide-to-zone-redundant-aks-clusters-and-storage/ba-p/4036254))
 - Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit chat app in AKS using Terraform ([Azure Samples](https://github.com/Azure-Samples/aks-openai-chainlit-terraform))([My GitHub](https://github.com/paolosalvatori/aks-openai-chainlit-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/create-an-azure-openai-langchain-chromadb-and-chainlit-chat-app/ba-p/4024070))
