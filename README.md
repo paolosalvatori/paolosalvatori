@@ -6,6 +6,20 @@
 - :dog:[Twitter](https://twitter.com/babosbird)
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 
+#### My statistics
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paolosalvatori&theme=blue-green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=paolosalvatori)
+
+<!--
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=paolosalvatori/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/paolosalvatori/Python)
+-->
+
 #### 🔭 Recent Articles and Samples
 
 - End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub](https://github.com/paolosalvatori/aks-front-door-end-to-end-tls))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
