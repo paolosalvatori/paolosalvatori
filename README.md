@@ -6,10 +6,10 @@
 - :dog:[Twitter](https://twitter.com/babosbird)
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 
-#### My statistics
+#### 🌍 Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
 
-#### 🔭 Recent Articles and Samples
+#### ⚡ Recent Articles and Samples
 
 - End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub](https://github.com/paolosalvatori/aks-front-door-end-to-end-tls))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
 - Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
