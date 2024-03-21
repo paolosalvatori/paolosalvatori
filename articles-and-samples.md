@@ -1,6 +1,9 @@
-### Articles and Samples
+### Tools
 
 - Service Bus Explorer [My GitHub](https://github.com/paolosalvatori/ServiceBusExplorer)
+
+### Blog Posts and Samples
+
 - End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub](https://github.com/paolosalvatori/aks-front-door-end-to-end-tls))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
 - Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
 - A Practical Guide to Zone Redundant AKS Clusters and Storage ([Azure Samples](https://github.com/Azure-Samples/zone-redundant-aks-and-storage))([My GitHub](https://github.com/paolosalvatori/zone-redundant-aks-and-storage))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/a-practical-guide-to-zone-redundant-aks-clusters-and-storage/ba-p/4036254))
@@ -70,3 +73,45 @@
 - Architectural approaches for messaging ([Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/messaging))
 - Use Azure AD workload identity for Kubernetes in a .NET Standard application ([Azure Samples](https://github.com/Azure-Samples/azure-ad-workload-identity))([My GitHub](https://github.com/paolosalvatori/azure-ad-workload-identity))
 - Create a Burstable Managed CSI Premium Storage Class ([Azure Samples](https://github.com/Azure-Samples/burstable-managed-csi-premium) )([My GitHub](https://github.com/paolosalvatori/burstable-managed-csi-premium))
+
+### Azure Architecture Center (Author)
+
+- [Azure Kubernetes Service (AKS) considerations for multitenancy](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks)
+- [Use Azure Firewall to help protect an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-firewall)
+- [Use Application Gateway Ingress Controller (AGIC) with a multitenant Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-agic/aks-agic)
+- [Architectural approaches for messaging in multitenant solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/messaging)
+- [Migrate your workload from Service Fabric to AKS](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/service-fabric-azure-kubernetes-service)
+- [Migrate a simple app from Service Fabric to AKS](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/migrate-app-service-fabric-azure-kubernetes-service)
+- [Map requests to tenants in a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/map-requests)
+- [Resources for architects and developers of multitenant solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/related-resources)
+- [Monitor workload deployments](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-deployment)
+- [Evaluate AKS cluster health](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-cluster-health)
+- [Examine node and pod health](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-node-health)
+- [Verify the connection to the container registry](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-container-registry)
+- [Validate admission controllers](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-controllers)
+- [Kubernetes monitoring and logging](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/monitoring)
+- [Cost management for Kubernetes](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/cost-management)
+- [Storage options for a Kubernetes cluster](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/storage)
+- [Kubernetes workload identity and access](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/workload-identity)
+- [Kubernetes node and node pool management](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/node-pools)
+- [Secure network access to Kubernetes](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/private-clusters)
+- [Kubernetes cluster governance](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/governance)
+
+### Azure Architecture Center (Contributor)
+
+- [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- [General architectural considerations for choosing an Azure container service](https://learn.microsoft.com/en-us/azure/architecture/guide/container-service-general-considerations)
+- [Choose an Azure container service](https://learn.microsoft.com/en-us/azure/architecture/guide/choose-azure-container-service)
+- [Deployment Stamps pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp)
+- [Noisy Neighbor antipattern](https://learn.microsoft.com/en-us/azure/architecture/antipatterns/noisy-neighbor/noisy-neighbor)
+- [Multitenancy and Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/openai)
+- [Multitenancy and Azure Service Bus](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/service-bus)
+- [Multitenancy and Azure Event Hubs](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/event-hubs)
+- [Considerations for using Container Apps in a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/container-apps)
+- [Tenant lifecycle considerations in a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenant-lifecycle)
+- [Tenancy models for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models)
+- [Pricing models for a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/pricing-models)
+- [Backup and recovery for AKS](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-backup-and-recovery)
+- [Migrate from Amazon EKS to Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/migrate-eks-to-aks)
+- [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices)
+- [Azure Kubernetes Service patch and upgrade guidance](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-upgrade-practices)
