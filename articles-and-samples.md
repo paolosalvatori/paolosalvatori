@@ -96,6 +96,8 @@
 - [Kubernetes node and node pool management](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/node-pools)
 - [Secure network access to Kubernetes](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/private-clusters)
 - [Kubernetes cluster governance](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/governance)
+- [BizTalk Server 2010 Performance Optimization Guide](https://learn.microsoft.com/en-us/biztalk/technical-guides/biztalk-server-2010-performance-optimization-guide)
+- [BizTalk Server 2010 Operations Guide](https://learn.microsoft.com/en-us/biztalk/technical-guides/biztalk-server-2010-operations-guide)
 
 ### Azure Architecture Center (Contributor)
 
