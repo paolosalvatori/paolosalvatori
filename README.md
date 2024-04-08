@@ -11,7 +11,7 @@
 
 #### ⚡ Recent Articles and Samples
 
-- Deploy Kaito on AKS using Terraform ([Azure Samples](https://github.com/azure-samples/aks-kaito-terraform))([My GitHub][(https://github.com/paolosalvatori/aks-front-door-end-to-end-tls](https://github.com/paolosalvatori/aks-kaito-terraform)))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/deploy-kaito-on-aks-using-terraform/ba-p/4108930))
+- Deploy Kaito on AKS using Terraform ([Azure Samples](https://github.com/azure-samples/aks-kaito-terraform))([My GitHub](https://github.com/paolosalvatori/aks-kaito-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/deploy-kaito-on-aks-using-terraform/ba-p/4108930))
 - End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub]())([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
 - Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
 - A Practical Guide to Zone Redundant AKS Clusters and Storage ([Azure Samples](https://github.com/Azure-Samples/zone-redundant-aks-and-storage))([My GitHub](https://github.com/paolosalvatori/zone-redundant-aks-and-storage))([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/a-practical-guide-to-zone-redundant-aks-clusters-and-storage/ba-p/4036254))
