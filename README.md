@@ -11,6 +11,7 @@
 
 #### ⚡ Recent Articles and Samples
 
+- Azure Orphan Resources Grafana Dashboard ([Azure Samples](https://github.com/Azure-Samples/azure-orphan-resources-grafana-dashboard))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/azure-orphan-resources-grafana-dashboard/ba-p/4120303))
 - Deploy Kaito on AKS using Terraform ([Azure Samples](https://github.com/azure-samples/aks-kaito-terraform))([My GitHub](https://github.com/paolosalvatori/aks-kaito-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/deploy-kaito-on-aks-using-terraform/ba-p/4108930))
 - End-to-end TLS with AKS, Azure Front Door, Azure Private Link Service, and NGINX Ingress Controller ([Azure Samples](https://github.com/Azure-Samples/aks-front-door-end-to-end-tls))([My GitHub]())([Tech Community](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/end-to-end-tls-with-aks-azure-front-door-azure-private-link/ba-p/4081775))
 - Deploy an Azure Kubernetes Service cluster with Crossplane using Terraform ([My GitHub](https://github.com/paolosalvatori/aks-crossplane-terraform))
