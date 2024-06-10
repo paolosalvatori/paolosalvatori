@@ -79,6 +79,7 @@
 
 ### Azure Architecture Center (Author)
 
+- [Use Azure Front Door to secure AKS workloads](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door)
 - [Azure Kubernetes Service (AKS) considerations for multitenancy](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks)
 - [Use Azure Firewall to help protect an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-firewall)
 - [Use Application Gateway Ingress Controller (AGIC) with a multitenant Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-agic/aks-agic)
