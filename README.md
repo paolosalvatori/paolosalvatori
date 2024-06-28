@@ -12,6 +12,7 @@
 #### ⚡ Recent Articles and Samples
 
 - Use Azure Front Door to secure AKS workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door))
+- Literal on Azure ([Azure Samples](https://github.com/Azure-Samples/literalai-azure))
 - Deploy and AKS Automatic cluster using Bicep ([My GitHub](https://github.com/paolosalvatori/aks-automatic-bicep))
 - Azure Orphan Resources Grafana Dashboard ([Azure Samples](https://github.com/Azure-Samples/azure-orphan-resources-grafana-dashboard))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/azure-orphan-resources-grafana-dashboard/ba-p/4120303))
 - Deploy Kaito on AKS using Terraform ([Azure Samples](https://github.com/azure-samples/aks-kaito-terraform))([My GitHub](https://github.com/paolosalvatori/aks-kaito-terraform))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/deploy-kaito-on-aks-using-terraform/ba-p/4108930))
