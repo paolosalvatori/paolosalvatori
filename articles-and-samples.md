@@ -126,3 +126,7 @@
 - [Migrate from Amazon EKS to Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/migrate-eks-to-aks)
 - [Triage practices for AKS operations](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-practices)
 - [Azure Kubernetes Service patch and upgrade guidance](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-upgrade-practices)
+
+### Azure Documentation (Contributor)
+- [Zone resiliency considerations for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/aks-zone-resiliency)
+- [Use the Azure Disk Container Storage Interface (CSI) driver in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/azure-disk-csi)
