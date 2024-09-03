@@ -11,6 +11,7 @@
 
 #### ⚡ Recent Articles and Samples
 
+- Use Azure Kubernetes Service to host GPU-based workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks))
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
 - Deploy Secure Azure AI Studio via Bicep ([Azure Samples](https://github.com/Azure-Samples/azure-ai-studio-secure-bicep))
 - Use Azure Front Door to secure AKS workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door))
