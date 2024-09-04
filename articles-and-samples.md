@@ -6,7 +6,6 @@
 
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
 - Deploy Secure Azure AI Studio via Bicep ([Azure Samples](https://github.com/Azure-Samples/azure-ai-studio-secure-bicep))
-- Deploy and AKS Automatic cluster using Bicep ([My GitHub](https://github.com/paolosalvatori/aks-automatic-bicep))
 - Use Azure Front Door to secure AKS workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door))
 - Literal on Azure ([Azure Samples](https://github.com/Azure-Samples/literalai-azure))
 - Deploy and AKS Automatic cluster using Bicep ([My GitHub](https://github.com/paolosalvatori/aks-automatic-bicep))
