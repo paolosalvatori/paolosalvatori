@@ -92,6 +92,7 @@
 - [Migrate a simple app from Service Fabric to AKS](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/migrate-app-service-fabric-azure-kubernetes-service)
 - [Map requests to tenants in a multitenant solution](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/map-requests)
 - [Resources for architects and developers of multitenant solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/related-resources)
+- [Azure Kubernetes Services (AKS) day-2 operations guide](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/day-2-operations-guide)
 - [Monitor workload deployments](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-deployment)
 - [Evaluate AKS cluster health](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-cluster-health)
 - [Examine node and pod health](https://learn.microsoft.com/en-us/azure/architecture/operator-guides/aks/aks-triage-node-health)
