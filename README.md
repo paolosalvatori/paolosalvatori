@@ -1,16 +1,16 @@
 ### :chicken: Paolo Salvatori
 
-#### 📫 Contacts
+### 📫 Contacts
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
 - :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
 - :dog:[Twitter](https://twitter.com/babosbird)
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 - :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1)
 
-#### 🌍 Statistics
+### 🌍 Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
 
-#### ⚡ Recent Articles and Samples
+### ⚡ Recent Articles and Samples
 
 - Use Azure Kubernetes Service to host GPU-based workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks))
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
@@ -44,7 +44,7 @@
 
 Read the complete list of articles and samples [here](https://github.com/paolosalvatori/paolosalvatori/blob/main/articles-and-samples.md).
 
-#### 🚀 Projects 
+### 🚀 Projects 
 |🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
 |-----------|-----------|----------|----------| 
 |[paolosalvatori/servicebusexplorer](https://github.com/paolosalvatori/servicebusexplorer) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) |
@@ -75,14 +75,14 @@ Read the complete list of articles and samples [here](https://github.com/paolosa
 |[azure-samples/aks-platform-engineering](https://github.com/azure-samples/aks-platform-engineering) | :tophat: Contributor | ![](https://img.shields.io/github/stars/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) |
 |[azure-samples/aks-multi-cluster-service-mesh](https://github.com/azure-samples/aks-multi-cluster-service-mesh) | :tophat: Contributor | ![](https://img.shields.io/github/stars/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) |
 
-#### Skills
+### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,prometheus,vscode,visualstudio,dotnet,py,git,github,docker,bash,powershell,css,html,)
 
 <!--
 **paolosalvatori/paolosalvatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### ⚡My  Statistics:
+### ⚡My  Statistics:
       
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paolosalvatori\&rank_icon=percentile)](https://github.com/paolosalvatori/github-readme-stats)
 
