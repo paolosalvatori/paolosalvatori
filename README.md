@@ -54,6 +54,7 @@ Read the complete list of articles and samples [here](https://github.com/paolosa
 |[azure-samples/container-apps-openai](https://github.com/azure-samples/container-apps-openai) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/container-apps-openai?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/container-apps-openai?style=flat-square&labelColor=343b41) |
 |[azure-samples/aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-openai-terraform?style=flat-square&labelColor=343b41) |
 |[azure-samples/aks-openai-chainlit-terraform](https://github.com/azure-samples/aks-openai-chainlit-terraform) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/aks-openai-chainlit-terraform?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-openai-chainlit-terraform?style=flat-square&labelColor=343b41) |
+|[azure-samples/azure-ai-studio-secure-bicep](https://github.com/azure-samples/azure-ai-studio-secure-bicep) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/azure-ai-studio-secure-bicep?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/azure-ai-studio-secure-bicep?style=flat-square&labelColor=343b41) |
 
 #### Skills
 
