@@ -1,6 +1,6 @@
 ### :chicken: Paolo Salvatori
 
-#### 📫 Accounts
+#### 📫 Contacts
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
 - :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/)
 - :dog:[Twitter](https://twitter.com/babosbird)
@@ -43,6 +43,11 @@
 - Create a private Azure Kubernetes Service cluster using Terraform and Azure DevOps ([Azure Samples](https://github.com/azure-samples/private-aks-cluster-terraform-devops)) ([My GitHub](https://github.com/paolosalvatori/private-aks-cluster-terraform-devops))
 
 Read the complete list of articles and samples [here](https://github.com/paolosalvatori/paolosalvatori/blob/main/articles-and-samples.md).
+
+#### 🚀 Projects 
+🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
+-------- | ----------- | -------- | --------- | 
+[Service Bus Explorer](https://github.com/paolosalvatori/servicebusexplorer) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) |
 
 #### Skills
 
