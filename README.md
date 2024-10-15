@@ -73,6 +73,7 @@ Read the complete list of articles and samples [here](https://github.com/paolosa
 |[azure-samples/azure-ad-workload-identity](https://github.com/azure-samples/azure-ad-workload-identity) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/azure-ad-workload-identity?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/azure-ad-workload-identity?style=flat-square&labelColor=343b41) |
 |[azure-samples/azure-ad-workload-identity-mi](https://github.com/azure-samples/azure-ad-workload-identity-mi) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/azure-ad-workload-identity-mi?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/azure-ad-workload-identity-mi?style=flat-square&labelColor=343b41) |
 |[azure-samples/aks-platform-engineering](https://github.com/azure-samples/aks-platform-engineering) | :tophat: Contributor | ![](https://img.shields.io/github/stars/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) |
+|[azure-samples/aks-multi-cluster-service-mesh](https://github.com/azure-samples/aks-multi-cluster-service-mesh) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) |
 
 #### Skills
 
