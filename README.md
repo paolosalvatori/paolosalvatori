@@ -45,9 +45,10 @@
 Read the complete list of articles and samples [here](https://github.com/paolosalvatori/paolosalvatori/blob/main/articles-and-samples.md).
 
 #### 🚀 Projects 
-🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
--------- | ----------- | -------- | --------- | 
-[Service Bus Explorer](https://github.com/paolosalvatori/servicebusexplorer) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) |
+|🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
+|-----------|-----------|----------|----------| 
+|[paolosalvatori/servicebusexplorer](https://github.com/paolosalvatori/servicebusexplorer) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) |
+|[azure-samples/private-aks-cluster-terraform-devops](https://github.com/azure-samples/private-aks-cluster-terraform-devops) | 👑 Owner | ![](https://img.shields.io/github/stars/azure-samples/private-aks-cluster-terraform-devops?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/private-aks-cluster-terraform-devops?style=flat-square&labelColor=343b41) |
 
 #### Skills
 
