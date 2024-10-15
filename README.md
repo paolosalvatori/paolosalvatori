@@ -46,7 +46,7 @@ Read the complete list of articles and samples [here](https://github.com/paolosa
 
 ### 🚀 Projects 
 |🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
-|-----------|-----------|----------|----------| 
+|:----------|:---------|:---------|:----------| 
 |[paolosalvatori/servicebusexplorer](https://github.com/paolosalvatori/servicebusexplorer) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/servicebusexplorer?style=flat-square&labelColor=343b41) |
 |[paolosalvatori/private-endpoints-topologies](https://github.com/paolosalvatori/private-endpoints-topologies) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/private-endpoints-topologies?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/private-endpoints-topologies?style=flat-square&labelColor=343b41) |
 |[paolosalvatori/service-fabric-acs-kubernetes-multi-container-app](https://github.com/paolosalvatori/service-fabric-acs-kubernetes-multi-container-app) | 👑 Owner | ![](https://img.shields.io/github/stars/paolosalvatori/service-fabric-acs-kubernetes-multi-container-app?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/paolosalvatori/service-fabric-acs-kubernetes-multi-container-app?style=flat-square&labelColor=343b41) |
