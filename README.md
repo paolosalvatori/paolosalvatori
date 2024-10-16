@@ -1,4 +1,4 @@
-### :chicken: Paolo Salvatori
+### 🌍 Paolo Salvatori
 
 ### 📫 Contacts
 - :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori)
@@ -7,8 +7,11 @@
 - :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile)
 - :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1)
 
-### 🌍 Statistics
+### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolosalvatori&layout=compact&theme=tokyonight)
+<!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 
 ### ⚡ Recent Articles and Samples
 
