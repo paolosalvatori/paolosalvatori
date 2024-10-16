@@ -10,10 +10,12 @@
 ### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats)
+
+### 💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolosalvatori&layout=compact&theme=tokyonight)
 <!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 
-### ⚡ Recent Articles and Samples
+### 📖 Recent Articles and Samples
 
 - Use Azure Kubernetes Service to host GPU-based workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks))
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
