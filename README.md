@@ -91,6 +91,10 @@ Read the complete list of articles and samples [here](https://github.com/paolosa
 |[azure-samples/aks-platform-engineering](https://github.com/azure-samples/aks-platform-engineering) | :tophat: Contributor | ![](https://img.shields.io/github/stars/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-platform-engineering?style=flat-square&labelColor=343b41) |
 |[azure-samples/aks-multi-cluster-service-mesh](https://github.com/azure-samples/aks-multi-cluster-service-mesh) | :tophat: Contributor | ![](https://img.shields.io/github/stars/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) | ![](https://img.shields.io/github/forks/azure-samples/aks-multi-cluster-service-mesh?style=flat-square&labelColor=343b41) |
 
+### 💻 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolosalvatori&layout=compact&theme=tokyonight)
+
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,prometheus,vscode,visualstudio,dotnet,py,git,github,docker,bash,powershell,css,html,)
