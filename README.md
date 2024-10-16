@@ -8,19 +8,8 @@
 - :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1)
 
 ### 🧮 GitHub Statistics
-<table border=0>
-      <tr>
-            <td>
-                  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
-            </td>
-            <td>
-                  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats)
-            </td>
-      </tr>
-</table>
-
-### 💻 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolosalvatori&layout=compact&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats)
 <!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 
 ### 📖 Recent Articles and Samples
