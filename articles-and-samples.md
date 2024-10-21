@@ -4,6 +4,7 @@
 
 ### Blog Posts and Samples
 
+- Porting a Web Application from AWS Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-web-application-replicate-from-aws))
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
 - Deploy Secure Azure AI Studio via Bicep ([Azure Samples](https://github.com/Azure-Samples/azure-ai-studio-secure-bicep))([Tech Community](https://techcommunity.microsoft.com/t5/azure-for-isv-and-startups/deploy-secure-azure-ai-studio-with-a-managed-virtual-network/ba-p/4251073))
 - Use Azure Front Door to secure AKS workloads ([Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door))
