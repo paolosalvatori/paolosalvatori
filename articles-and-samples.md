@@ -82,8 +82,9 @@
 - Use Azure AD workload identity for Kubernetes in a .NET Standard application ([Azure Samples](https://github.com/Azure-Samples/azure-ad-workload-identity))([My GitHub](https://github.com/paolosalvatori/azure-ad-workload-identity))
 - Create a Burstable Managed CSI Premium Storage Class ([Azure Samples](https://github.com/Azure-Samples/burstable-managed-csi-premium) )([My GitHub](https://github.com/paolosalvatori/burstable-managed-csi-premium))
 
-### Azure Architecture Center (Author)
+### Official Documentation (Author)
 
+- [Compute for SaaS workloads on Azure](https://learn.microsoft.com/en-us/azure/well-architected/saas/compute)
 - [Use Azure Front Door to secure AKS workloads](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door)
 - [Azure Kubernetes Service (AKS) considerations for multitenancy](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks)
 - [Use Azure Firewall to help protect an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/architecture/guide/aks/aks-firewall)
@@ -109,7 +110,7 @@
 - [BizTalk Server 2010 Performance Optimization Guide](https://learn.microsoft.com/en-us/biztalk/technical-guides/biztalk-server-2010-performance-optimization-guide)
 - [BizTalk Server 2010 Operations Guide](https://learn.microsoft.com/en-us/biztalk/technical-guides/biztalk-server-2010-operations-guide)
 
-### Azure Architecture Center (Contributor)
+### Official Documentation (Contributor)
 
 - [Use Azure Kubernetes Service to host GPU-based workloads](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-gpu/gpu-aks)
 - [Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
