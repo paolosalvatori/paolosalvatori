@@ -6,7 +6,7 @@
 
 ### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paolosalvatori&theme=cobalt)](https://git.io/streak-stats) -->
 <!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,r,py,git,github,docker,bash,powershell,css,html) -->
 
 ### 📖 Recent Articles and Samples
