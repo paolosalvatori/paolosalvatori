@@ -4,6 +4,7 @@
 
 ### Blog Posts and Samples
 
+- Bash script to login to a given Azure Subscription using Microsoft Entra PIM ([Gist](https://gist.github.com/paolosalvatori/65ca328eadd02ed0571ada13e4cef266))
 - Four Methods to Access Azure Key Vault from Azure Kubernetes Service (AKS) ([My GitHub](https://github.com/paolosalvatori/aks-key-vault))([Tech Community](https://techcommunity.microsoft.com/blog/azureforisvandstartupstechnicalblog/four-methods-to-access-azure-key-vault-from-azure-kubernetes-service-aks/4376662))
 - Porting a Web Application from AWS Elastic Kubernetes Service (EKS) to Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-web-application-replicate-from-aws))
 - Building a Platform Engineering Environment on Azure Kubernetes Service (AKS) ([Azure Samples](https://github.com/Azure-Samples/aks-platform-engineering))
