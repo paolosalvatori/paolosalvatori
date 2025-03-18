@@ -86,6 +86,12 @@
 
 ### Official Documentation (Author)
 
+- [Replicate an Amazon Web Services (AWS) web application with AWS WAF in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-overview)
+- [Understand platform differences for the web application workload](https://learn.microsoft.com/en-us/azure/aks/eks-web-understand)
+- [Rearchitect AWS EKS web application for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-rearchitect?tabs=agic)
+- [Migrate Amazon Web Services (AWS) web application to Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/eks-web-refactor)
+- [Prepare to deploy Amazon Web Services (AWS) web application workload to Azure](https://learn.microsoft.com/en-us/azure/aks/eks-web-prepare)
+- [Deploy an Amazon Web Services (AWS) web application to Azure](https://learn.microsoft.com/en-us/azure/aks/eks-web-deploy?tabs=azure-cli)
 - [Compute for SaaS workloads on Azure](https://learn.microsoft.com/en-us/azure/well-architected/saas/compute)
 - [Use Azure Front Door to secure AKS workloads](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/aks-front-door/aks-front-door)
 - [Azure Kubernetes Service (AKS) considerations for multitenancy](https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks)
