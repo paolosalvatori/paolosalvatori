@@ -4,6 +4,7 @@
 
 ### Blog Posts and Samples
 
+- Deploying Azure Kubernetes Service (AKS) with Azure CNI Overlay and Application Gateway for Containers ([My GitHub](https://github.com/paolosalvatori/aks-application-gateway-for-containers-overlay-bicep))
 - Build an AI-Powered Workflow with Durable Functions ([My GitHub](https://github.com/paolosalvatori/durable-functions-blob-openai-cosmosdb))([Medium](https://medium.com/@paolo.salvatori/building-ai-powered-data-pipelines-with-azure-durable-functions-e271d189b80b))
 - Bash script to login to a given Azure Subscription using Microsoft Entra PIM ([Gist](https://gist.github.com/paolosalvatori/65ca328eadd02ed0571ada13e4cef266))
 - Four Methods to Access Azure Key Vault from Azure Kubernetes Service (AKS) ([My GitHub](https://github.com/paolosalvatori/aks-key-vault))([Tech Community](https://techcommunity.microsoft.com/blog/azureforisvandstartupstechnicalblog/four-methods-to-access-azure-key-vault-from-azure-kubernetes-service-aks/4376662))([Medium](https://medium.com/@paolo.salvatori/4-methods-to-access-azure-key-vault-from-azure-kubernetes-service-aks-32cadda78205))
