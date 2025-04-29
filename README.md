@@ -11,6 +11,7 @@
 
 ### 📖 Recent Articles and Samples
 
+- Terraform vs. Crossplane: a practical comparison ([Medium](https://medium.com/@paolo.salvatori/terraform-vs-crossplane-a-practical-comparison-992dc9745e08))
 - Deploying Azure Kubernetes Service (AKS) with Azure CNI Overlay and Application Gateway for Containers ([My GitHub](https://github.com/paolosalvatori/aks-application-gateway-for-containers-overlay-bicep))
 - Build an AI-Powered Workflow with Durable Functions ([My GitHub](https://github.com/paolosalvatori/durable-functions-blob-openai-cosmosdb))([Medium](https://medium.com/@paolo.salvatori/building-ai-powered-data-pipelines-with-azure-durable-functions-e271d189b80b))
 - Bash script to login to a given Azure Subscription using Microsoft Entra PIM ([Gist](https://gist.github.com/paolosalvatori/65ca328eadd02ed0571ada13e4cef266))
