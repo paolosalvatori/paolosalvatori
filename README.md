@@ -2,7 +2,7 @@
 
 ### 📫 Contacts
 
-:tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori) :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/) :dog:[X](https://twitter.com/babosbird) :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile) :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1) 🐹[Medium][https://medium.com/@paolo.salvatori]
+:tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori) :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/) :dog:[X](https://twitter.com/babosbird) :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile) :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1) :hamster:[Medium][https://medium.com/@paolo.salvatori]
 
 ### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=paolosalvatori&show_icons=true)
