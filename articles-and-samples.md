@@ -3,7 +3,8 @@
 - Service Bus Explorer [My GitHub](https://github.com/paolosalvatori/ServiceBusExplorer)
 
 ### Blog Posts and Samples
-
+- Azure Kubernetes Service (AKS) Samples for LocalStack for Azure ([LocalStack](https://github.com/localstack-samples/aks-samples))
+- LocalStack for Azure Samples ([LocalStack](https://github.com/localstack/localstack-azure-samples))
 - Terraform vs. Crossplane: a practical comparison ([Medium](https://medium.com/@paolo.salvatori/terraform-vs-crossplane-a-practical-comparison-992dc9745e08))
 - Deploying Azure Kubernetes Service (AKS) with Azure CNI Overlay and Application Gateway for Containers ([My GitHub](https://github.com/paolosalvatori/aks-application-gateway-for-containers-overlay-bicep))
 - Build an AI-Powered Workflow with Durable Functions ([My GitHub](https://github.com/paolosalvatori/durable-functions-blob-openai-cosmosdb))([Medium](https://medium.com/@paolo.salvatori/building-ai-powered-data-pipelines-with-azure-durable-functions-e271d189b80b))
