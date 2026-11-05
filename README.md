@@ -5,7 +5,6 @@
 :tiger:[GitHub](https://github.com/paolosalvatori/paolosalvatori) :cat:[LinkedIn](https://www.linkedin.com/in/paolo-salvatori/) :dog:[X](https://twitter.com/babosbird) :rabbit:[Tech Community](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/988334#profile) :wolf:[Credly](https://www.credly.com/users/paolo-salvatori.37a72df1) :hamster:[Medium](https://medium.com/@paolo.salvatori)
 
 ### 🧮 GitHub Statistics
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paolosalvatori&theme=react-dark)
 [![Stars](https://img.shields.io/github/stars/paolosalvatori?style=flat-square&logo=github)](https://github.com/paolosalvatori)
 [![Followers](https://img.shields.io/github/followers/paolosalvatori?style=flat-square&logo=github)](https://github.com/paolosalvatori)
 
